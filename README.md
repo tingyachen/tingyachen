@@ -26,4 +26,8 @@
 ## Stats <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
 
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tingyachen&layout=compact&theme=dracula)
+
+<img alt="tina1221's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tingyachen&show_icons=true&theme=radical" />
+<br/>
+
+<a href="https://github.com/tingyachen/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tingyachen&layout=compact&theme=tokyonight" /></a>
